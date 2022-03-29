@@ -3,12 +3,13 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm Tom!
+- ### Hi there 👋, I'm David!
 
-  - 🏫  _BSc in Computer Science_.
-  - 💻  I work on C / C++ / Java / Objective-C & Swift / Python / Markdown.
-  - 🧠  I used to take internship as an iOS developer at Bytedance Techonology.
-  - 🏖️  I will go to Shenzhen and work as a back-end engineer at Tencent.
+  - 🏫  _A junior majoring in Computer Science_. 
+  - :cityscape:  live in *Chengdu* and *Beijing*
+  - 💻  I work on C / C++ / Python / Cuda / Markdown.
+  - :briefcase:  I work on Academic direction of computer : *High Performence Computing(HPC)*
+  - :ballot_box_with_check:  Strive to go to the BAT for internship in the summer vacation of 2022
 
-公众号: 汤姆还在写代码
+谢谢你关注我的blog，尽管他还不是很完善，就像还在成长的我一样。
 
