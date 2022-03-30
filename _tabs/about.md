@@ -3,7 +3,7 @@ title: 关于
 icon: fas fa-info
 order: 4
 ---
-- ### Hi there 👋, I'm David!
+- ### Hi there :wave:, I'm David!
 
   - :school:  _A junior majoring in Computer Science_. 
   - :cityscape:  live in *Chengdu* and *Beijing*
